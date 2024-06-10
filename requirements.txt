@@ -10,3 +10,4 @@ streamlit-lottie==0.0.3
 streamlit-folium==0.6.15
 streamlit-option-menu==0.3.2
 folium==0.13.0
+cmake==3.29.5
